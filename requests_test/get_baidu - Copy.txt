@@ -1,0 +1,15 @@
+import requests
+
+# url = "http://www.baidu.com"
+url = 'https://www.huaweicloud.com/product/'
+
+payload = {}
+# headers = {
+#   'Cookie': 'BIDUPSID=96FC53106F0BB078ED820F436920394A; PSTM=1606791130; BAIDUID=96FC53106F0BB0789564FE9ACC0F8243:FG=1; BDSVRTM=12; BD_HOME=1; H_PS_PSSID=1448_33058_33099_33100_32845_33198'
+# }
+
+# response = requests.request("GET", url, headers=headers, data = payload)
+# response = requests.request("GET", url, data = payload)
+response = requests.get(url)
+
+print(response.text.encode('utf8'))

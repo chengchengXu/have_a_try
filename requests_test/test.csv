@@ -1,0 +1,242 @@
+title name,title description,section name,project name,project description,project link
+基础服务,云基础产品体系完整度全球领先，基础产品及功能持续投入建设，源源不断的通过新技术提高企业云上的计算、运维、开发和管理能力,,,
+,,计算,,
+,,,弹性云服务器 | ECS,可随时自助获取、可弹性伸缩，能帮助用户打造可靠、安全、灵活、高效的应用环境,https://www.huaweicloud.com/product/ecs.html
+,,,GPU加速云服务器 | GACS,GPU加速，聚焦计算加速（P系列）和图形加速（G系列）,https://www.huaweicloud.com/product/gpu.html
+,,,FPGA加速云服务器 | FACS,FPGA开发环境，领域级FPGA加速服务,https://www.huaweicloud.com/product/facs.html
+,,,裸金属服务器 | BMS,为用户提供专属的物理服务器，提供卓越的计算性能,https://www.huaweicloud.com/product/bms.html
+,,,云手机 | CloudPhone,在云上运行App的仿真手机，为您提供高性能、安全、可靠、兼容的App仿真运行环境,https://www.huaweicloud.com/product/cloudphone.html
+,,,专属主机 | DeH,云上计算资源独享，根据业务自主规划云服务器,https://www.huaweicloud.com/product/deh.html
+,,,弹性伸缩 | AS,根据业务波动合理调整云上资源，保证业务平稳的前提下帮您节省资源成本,https://www.huaweicloud.com/product/as.html
+,,,镜像服务 | IMS,提供安全，可靠，易用的公共镜像，以及便捷的私有镜像生命周期管理,https://www.huaweicloud.com/product/ims.html
+,,,批处理服务 | Batch,一种用于运行大规模并行批处理作业的分布式云计算服务,https://www.huaweicloud.com/product/batch.html
+,,,函数工作流 | FunctionGraph,一项基于事件驱动的函数托管计算服务,https://www.huaweicloud.com/product/functiongraph.html
+,,存储,,
+,,,对象存储服务 | OBS,安全，可靠，高性能、低成本的海量云存储服务,https://www.huaweicloud.com/product/obs.html
+,,,云硬盘 | EVS,为ECS、BMS等计算服务提供持久性块存储,https://www.huaweicloud.com/product/evs.html
+,,,云备份 | CBR,为云内的云服务器、云硬盘、云下VMware虚拟化环境，提供简单易用的备份服务,https://www.huaweicloud.com/product/cbr.html
+,,,专属分布式存储服务 | DSS,独享的物理存储资源，通过数据冗余和缓存加速等技术，提供高可用、持久、稳定的低时延性能,https://www.huaweicloud.com/product/dss.html
+,,,云硬盘备份 | VBS,为云硬盘创建在线备份，无需关机/重启。针对病毒入侵、人为误删除、软硬件故障等场景，可将数据恢复到任意备份点,https://www.huaweicloud.com/product/vbs.html
+,,,云服务器备份 | CSBS,为云服务器下所有云硬盘创建一致性在线备份，无需关机,https://www.huaweicloud.com/product/csbs.html
+,,,内容分发网络 | CDN,将源站内容分发至靠近用户的加速节点，解决Internet网络拥挤的状况，提高用户访问的响应速度和成功率,https://www.huaweicloud.com/product/cdn.html
+,,,存储容灾服务 | SDRS,提供跨可用区RPO=0的虚拟机级容灾保护，可大幅降低企业容灾TCO，简化容灾流程,https://www.huaweicloud.com/product/sdrs.html
+,,,弹性文件服务 | SFS,提供一个完全托管的共享文件存储，具有高性能、高可靠的特点,https://www.huaweicloud.com/product/sfs.html
+,,,数据快递服务 | DES,一种海量数据传输解决方案，致力于解决海量数据传输网络成本高、传输时间长等难题,https://www.huaweicloud.com/product/des.html
+,,网络,,
+,,,虚拟私有云 | VPC,是用户在华为云上申请的隔离的、私密的虚拟网络环境,https://www.huaweicloud.com/product/vpc.html
+,,,弹性负载均衡 | ELB,将访问流量自动分发到多台云服务器，扩展应用系统对外的服务能力,https://www.huaweicloud.com/product/elb.html
+,,,NAT网关,为VPC内的弹性云服务器提供SNAT和DNAT功能，轻松构建VPC的公网出入口,https://www.huaweicloud.com/product/nat.html
+,,,弹性公网IP | EIP,提供独立的公网IP资源，包括公网IP地址与公网出口带宽服务,https://www.huaweicloud.com/product/eip.html
+,,,云专线 | DC,搭建用户本地数据中心与华为云VPC之间高速、低时延、稳定安全的专属连接通道,https://www.huaweicloud.com/product/dc.html
+,,,虚拟专用网络 | VPN,搭建用户本地数据中心与华为云VPC之间便捷、灵活，即开即用的IPsec加密连接通道,https://www.huaweicloud.com/product/vpn.html
+,,,云连接 | CC,提供快速构建跨区域VPC及云上多VPC与云下多数据中心之间的高速、优质、稳定的网络能力,https://www.huaweicloud.com/product/cc.html
+,,,云解析服务 | DNS,提供高可用，高扩展的权威DNS服务和DNS管理服务,https://www.huaweicloud.com/product/dns.html
+,,,VPC终端节点 | VPCEP,在VPC内提供便捷、安全、私密的通道与终端节点服务（华为云服务、用户私有服务）进行连接,https://www.huaweicloud.com/product/vpcep.html
+,,数据库,,
+,,,云数据库 | MySQL,在读写性能、扩容能力、备份恢复功能、故障容忍能力方面有显著优化提升,https://www.huaweicloud.com/product/mysql.html
+,,,云数据库 | PostgreSQL,支持互联网电商、地理位置应用系统、金融保险系统、复杂数据对象处理等应用场景,https://www.huaweicloud.com/product/pg.html
+,,,云数据库 | SQL Server,支持基于Windows架构下的应用程序，它拥有即开即用、稳定可靠、安全运行、弹性伸缩、轻松管理、经济实用等特点,https://www.huaweicloud.com/product/mssql.html
+,,,文档数据库服务 | DDS,兼容MongoDB协议，支持分片集群（Sharding）、副本集（ReplicaSet）和单节点（Single）三种部署架构,https://www.huaweicloud.com/product/dds.html
+,,,分布式数据库中间件 | DDM,解决数据库容量、性能瓶颈和分布式扩展问题的中间件服务，提供分库分表、读写分离、弹性扩容等能力,https://www.huaweicloud.com/product/ddm.html
+,,,云数据库 | GeminiDB,一款基于华为自主研发的计算存储分离架构的分布式多模NoSQL数据库服务,https://www.huaweicloud.com/product/nosql.html
+,,,数据复制服务 | DRS,用于数据库在线迁移和数据库实时同步的云服务,https://www.huaweicloud.com/product/drs.html
+,,,数据管理服务 | DAS,一款专业的简化数据库管理工具，提供优质的可视化操作界面，大幅提高工作效率,https://www.huaweicloud.com/product/das.html
+,,容器服务,,
+,,,云容器引擎 | CCE,提供高可靠高性能的企业级容器应用管理服务,https://www.huaweicloud.com/product/cce.html
+,,,云容器实例 | CCI,提供基于Kubernetes的Serverless容器服务，兼容K8s和Docker原生接口,https://www.huaweicloud.com/product/cci.html
+,,,容器镜像服务 | SWR,支持容器镜像全生命周期管理的服务， 提供简单易用、安全可靠的镜像管理功能，帮助用户快速部署容器化服务,https://www.huaweicloud.com/product/swr.html
+,,,应用编排服务 | AOS,通过图形化设计器，提供直观便捷的云资源开通和应用部署，将复杂的云资源和应用部署配置通过模板描述，实现一键式云资源与应用的开通与复制,https://www.huaweicloud.com/product/aos.html
+,,域名与网站,,
+,,,云速建站,自助式建站系统，千套精美模板，无需技术开发，零门槛拖拽式建站,https://www.huaweicloud.com/product/cloudsite.html
+,,,域名注册 | Domain,高品质域名服务，品类丰富，易用安全，专业可信赖,https://www.huaweicloud.com/product/domain.html
+,,,云解析服务 | DNS,提供高可用，高扩展的权威DNS服务和DNS管理服务,https://www.huaweicloud.com/product/dns.html
+,,,云速邮箱,为中小企业提供企业邮箱服务，安全可靠，全球畅邮,https://marketplace.huaweicloud.com/activity/mail.html
+,,,SSL证书管理 | SCM,华为联合全球知名数字证书服务机构，为您提供一站式证书的全生命周期管理,https://www.huaweicloud.com/product/scm.html
+,,,网站备案,华为云为您提供免费备案服务,https://beian.huaweicloud.com/
+,,视频,,
+,,,视频直播 | Live,快速敏捷为行业提供高并发、低延迟、高清流畅、安全可靠的端到端直播解决方案,https://www.huaweicloud.com/product/live.html
+,,,短视频 | SVideo,集成了高清录制、视频拼接、特效渲染、美颜滤镜、传播分享等完整的短视频能力,https://www.huaweicloud.com/product/svideo.html
+,,,视频点播 | VOD,为客户提供视频上传、自动化转码处理、媒资管理、分发加速的一站式视频点播媒体服务,https://www.huaweicloud.com/product/vod.html
+,,,媒体转码 | MPC,为海量多媒体数据提供转码和音视频处理服务，支持丰富的转码格式，适合在PC、TV以及移动终端上播放,https://www.huaweicloud.com/product/mpc.html
+,,,融合视频云服务 | CVCS,聚焦IPTV、移动视频、互联网电视三大场景，一站式提供面向家庭及个人的直播、点播以及互动直播、短视频等高清视频服务,https://www.huaweicloud.com/product/cvcs.html
+,,,视频监控 | IVSCS,依托华为在安防领域深厚的经验积累，提供大容量、高并发的视频接入、转发和存储能力,https://www.huaweicloud.com/product/ivscs.html
+,,应用中间件,,
+,,,应用管理与运维平台 | ServiceStage,提供应用开发、构建、发布、监控及运维等一站式解决方案,https://www.huaweicloud.com/product/servicestage.html
+,,,微服务引擎 | CSE,帮助用户实现微服务应用的快速开发和高可用运维,https://www.huaweicloud.com/product/cse.html
+,,,分布式缓存服务 | Redis,首个基于ARM-Based全栈整合的鲲鹏Redis云服务,https://www.huaweicloud.com/product/dcs.html
+,,,分布式缓存服务 | Memcached,一个高性能、分布式的缓存系统,https://www.huaweicloud.com/product/dcsmem.html
+,,,分布式消息服务 | DMS,完全托管的高性能消息队列服务,https://www.huaweicloud.com/product/dms.html
+,,,分布式消息服务 | Kafka,高吞吐、高可用的消息中间件服务,https://www.huaweicloud.com/product/dmskafka.html
+,,,分布式消息队列 | RabbitMQ,兼容开源RabbitMQ的云上消息队列服务,https://www.huaweicloud.com/product/rabbitmq.html
+,,,API网关 | APIG,为企业开发者及合作伙伴提供的高性能、高可用、高安全的API托管服务,https://www.huaweicloud.com/product/apig.html
+,,,云性能测试服务 | CPTS,为应用的接口和全链路提供性能测试服务,https://www.huaweicloud.com/product/cpts.html
+,,管理工具,,
+,,,应用运维管理 | AOM,实时监控云上资源、网络、中间件、上云业务等全链路运维指标，通过运维知识库和AIOps引擎快速发现并诊断异常，保障业务稳定运行,https://www.huaweicloud.com/product/aom.html
+,,,应用性能管理 | APM,实时监控并管理企业应用性能和故障，提供专业的分布式应用性能分析能力，可帮助企业快速解决分布式架构下的问题定位和性能瓶颈分析难题,https://www.huaweicloud.com/product/apm.html
+,,,云日志服务 | LTS,提供日志收集、实时查询、存储等功能，无需开发即可利用日志做实时决策分析，提升日志处理效率,https://www.huaweicloud.com/product/lts.html
+,,,云审计服务 | CTS,为您提供云账户下资源的操作记录，通过操作记录您可以实现安全分析、资源变更、合规审计、问题定位等场景,https://www.huaweicloud.com/product/cts.html
+,,迁移,,
+,,,主机迁移服务 | SMS,帮您把X86物理服务器，或者私有云、公有云平台上的虚拟机迁移到华为云弹性云服务器,https://www.huaweicloud.com/product/sms.html
+,,,对象存储迁移服务 | OMS,是一种线上数据迁移服务， 帮助用户把对象存储数据从其他云服务商的公有云轻松、平滑地迁移到华为云,https://www.huaweicloud.com/product/oms.html
+,,,云数据迁移 | CDM,提供同构/异构数据源之间批量数据迁移服务，帮助客户实现数据自由流动,https://www.huaweicloud.com/product/cdm.html
+,,,数据复制服务 | DRS,一种易用、稳定、高效，用于数据库在线迁移和数据库实时同步的云服务,https://www.huaweicloud.com/product/drs.html
+EI企业智能,致力成为智能社会使能者，让企业更智能,,,
+,,EI基础平台,,
+,,,AI开发平台 | ModelArts,AI开发一站式开发平台，包括数据处理、模型开发、训练部署等功能,https://www.huaweicloud.com/product/modelarts.html
+,,,端云协同AI平台【华为HiLens】,由具备AI推理能力的摄像头和云上开发平台组成，开发AI技能将其推送到端侧计算设备,https://www.huaweicloud.com/product/hilens.html
+,,,图引擎服务 | GES,国内首个商用的、拥有自主知识产权的国产分布式原生图引擎,https://www.huaweicloud.com/product/ges.html
+,,,视频接入服务 | VIS,提供摄像头视频数据采集、实时数据分发和视频数据转储能力,https://www.huaweicloud.com/product/vis.html
+,,,批处理服务 | Batch,用于运行大规模并行批处理作业的分布式云计算服务,https://www.huaweicloud.com/product/batch.html
+,,人脸与人体识别,,
+,,,人脸识别 | FRS,可应用于身份验证、电子考勤、轨迹追踪、客流分析等场景,https://www.huaweicloud.com/product/face.html
+,,,人体分析 | HAS,对人流和人的属性值进行分析，应用于客户分析、VIP识别及热点区域分析等场景,https://www.huaweicloud.com/product/has.html
+,,语音交互服务,,
+,,,定制语音识别 | ASRC,提供针对特定领域优化的语音识别能力，可自定义语言模型,https://www.huaweicloud.com/product/asrc.html
+,,,实时语音转写,将连续的音频流实时转换成文本，语音识别更快,https://www.huaweicloud.com/product/rasr.html
+,,,语音识别,将口述音频转换为文本,https://www.huaweicloud.com/product/asr.html
+,,,语音合成,将文本转换成逼真语音,https://www.huaweicloud.com/product/tts.html
+,,对话机器人,,
+,,,智能问答机器人,帮助企业快速构建，发布和管理智能问答机器人系统,https://www.huaweicloud.com/product/ai-cbsqa.html?__adhoc_split_id__=6e530442-4d98-f875-195e-0038dcfea7f6
+,,,任务型对话机器人,精准理解对话意图和关键信息，助力智能人机交互,https://www.huaweicloud.com/product/cbstask.html
+,,,智能质检,对呼叫中心录音做智能对话分析，实现全量质检,https://www.huaweicloud.com/product/cbssa.html
+,,,定制化对话机器人 | CBSC,满足企业特定业务需求，量身定做的智能对话机器人,https://www.huaweicloud.com/product/cbsc.html
+,,图像识别,,
+,,,图像标签 | Image Tagging,可准确识别图像中的视觉内容，具备目标检测和属性识别等能力,https://www.huaweicloud.com/product/imagetagging.html
+,,,名人识别 | Celebrity Recognition,准确识别图像中包含的政治人物、影视明星及网红人物,https://www.huaweicloud.com/product/roc.html
+,,图像搜索服务,,
+,,,图像搜索服务 | ImageSearch,帮助客户从指定图库中搜索相同或相似的图片,https://www.huaweicloud.com/product/imagesearch.html
+,,自然语言处理,,
+,,,自然语言处理基础,提供自然语言相关的API,https://www.huaweicloud.com/product/nlpf.html
+,,,语言理解,提供情感分析、观点抽取、文本分类、意图理解等语言理解相关的API,https://www.huaweicloud.com/product/nlplu.html
+,,,语言生成,根据输入的信息，生成可读的文字表述,https://www.huaweicloud.com/product/nlplg.html
+,,,定制自然语言处理,根据客户特定需求构建专有的自然语言处理模型,https://www.huaweicloud.com/product/nlpc.html
+,,,机器翻译 | MT,通过API调用即可实现源语言文本到目标语言文本的自动翻译,https://www.huaweicloud.com/product/nlpmt.html
+,,大数据计算,,
+,,,MapReduce服务 | MRS,提供租户完全可控的企业级大数据集群云服务,https://www.huaweicloud.com/product/mrs.html
+,,,实时流计算服务 | CS,"提供实时处理流式大数据的全栈能力, 简单易用",https://www.huaweicloud.com/product/cs.html
+,,,数据湖探索 | DLI,基于Apache Spark生态，完全托管的大数据处理分析服务,https://www.huaweicloud.com/product/dli.html
+,,,数据仓库服务 | DWS,实时、简单、安全可信的企业级融合数据仓库,https://www.huaweicloud.com/product/dws.html
+,,,表格存储服务 | CloudTable,可提供千万级TPS以及毫秒级随机读写能力,https://www.huaweicloud.com/product/cloudtable.html
+,,内容审核,,
+,,,内容审核 | Moderation,可自动检测涉黄、广告、涉政涉暴、涉政敏感人物等内容,https://www.huaweicloud.com/product/moderation.html
+,,,内容审核-文本,自动识别出文本中出现的涉政、涉黄、广告、辱骂、灌水等内容,https://www.huaweicloud.com/product/textmoderation.html
+,,,内容审核-图像,准确识别图片中的涉黄、涉政涉暴、涉政敏感人物、广告、不良场景,https://www.huaweicloud.com/product/imagemoderation.html
+,,,内容审核-视频,智能审查涉黄、涉恐、涉暴内容，提升视频审核效率,https://www.huaweicloud.com/product/vcm.html
+,,大数据搜索与分析,,
+,,,云搜索服务 | CSS,基于Elasticsearch且完全托管的在线分布式搜索服务,https://www.huaweicloud.com/product/es.html
+,,,日志分析服务 | LOG,日志类数据一站式智能分析,https://www.huaweicloud.com/product/log.html
+,,大数据应用,,
+,,,推荐系统 | RES,基于华为大数据和人工智能技术，提供推荐平台和算法服务,https://www.huaweicloud.com/product/res.html
+,,视频技术,,
+,,,视频内容分析 | VCR,提供多维度的视频分析算法，在多种场景下准确高效地输出视频结构化信息,https://www.huaweicloud.com/product/vcr.html
+,,,视频编辑 | VCP,基于对视频的整体分析，提供封面、拆条、摘要等能力,https://www.huaweicloud.com/product/vcp.html
+,,,视频标签 | VCT,对视频进行多维度分析，形成层次化分类标签的服务,https://www.huaweicloud.com/product/vct.html
+,,,视频指纹 | VFP,生成一串指纹字符，用于视频相似查重、视频版权、广告识别等场景,https://www.huaweicloud.com/product/vfp.html
+,,大数据治理与开发,,
+,,,智能数据湖运营平台 | DAYU,数据全生命周期一站式开发运营平台,https://www.huaweicloud.com/product/dayu.html
+,,,数据湖工厂 | DLF,提供一站式的大数据协同开发平台,https://www.huaweicloud.com/product/dlf.html
+,,,数据湖治理 | DLG,一站式数据治理平台,https://www.huaweicloud.com/product/dlg.html
+,,,数据接入服务 | DIS,提供高效采集、传输、分发能力，支持多种IoT协议,https://www.huaweicloud.com/product/dis.html
+,,,云数据迁移 | CDM,提供同构/异构数据源之间批量数据迁移服务,https://www.huaweicloud.com/product/cdm.html
+,,数据可视化,,
+,,,数据可视化 | DLV,一站式数据可视化平台,https://www.huaweicloud.com/product/dlv.html
+,,智能体,,
+,,,交通智能体 | TrafficGo,坚持普惠AI，创造安全、高效、绿色的城市交通出行体验,https://www.huaweicloud.com/product/trafficgo.html
+,,,园区智能体,将人工智能应用于工业园区、住宅园区、商业园区的管理与监控,https://www.huaweicloud.com/product/ei_campus.html
+,,,工业智能体,依托大数据&人工智能，提供设计、生产、物流、销售、服务全链式智能服务,https://www.huaweicloud.com/product/ei_industrial.html
+,,,网络智能体 | NAIE,解决网络业务预测类、重复性、复杂类等问题,https://www.huaweicloud.com/product/naie.html
+开发者,为开发者提供资源工具、学习交流、应用实践、大赛活动等一站式服务,,,
+,,软件开发平台DevCloud,,
+,,,项目管理 | ProjectMan,沉淀华为研发管理理念和实践，提供高效、敏捷的团队协作与项目管理,https://www.huaweicloud.com/product/projectman.html
+,,,代码托管 | CodeHub,提供基于Git的安全代码托管服务，基本功能齐备，Code Review增强,https://www.huaweicloud.com/product/codehub.html
+,,,流水线 | CloudPipeline,构建可视化、定制化、高质量和高效率持续交付流水线的服务,https://www.huaweicloud.com/product/cloudpipeline.html
+,,,代码检查 | CodeCheck,提供可协作的一站式深度代码检查服务,https://www.huaweicloud.com/product/codecheck.html
+,,,编译构建 | CloudBuild,基于云端大规模并发加速，提供高速、低成本、配置简单的混合语言编译构建能力,https://www.huaweicloud.com/product/cloudbuild.html
+,,,部署 | CloudDeploy,可视化、一键式的部署能力，支持自动部署软件到虚机、容器和PaaS服务,https://www.huaweicloud.com/product/clouddeploy.html
+,,,云测 | CloudTest,一站式云端敏捷测试平台，覆盖测试管理、接口测试、性能测试、CI/CD持续自动化测试,https://www.huaweicloud.com/product/cloudtest.html
+,,,发布 | CloudRelease,软件发布包的生命周期管理，与软件发布过程的质量管控,https://www.huaweicloud.com/product/cloudrelease.html
+,,,移动应用测试 | MobileAppTest,联合TestBird提供移动兼容性测试服务，覆盖TOP机型，专家审核测试报告,https://www.huaweicloud.com/product/mobileapptest.html
+,,,CloudIDE,通过浏览器即可实现编码、调试运行和环境访问的云端IDE服务,https://www.huaweicloud.com/product/cloudide.html
+,,,Classroom,新型一站式软件教学与实训平台，提供在线教学系统、内容和服务,https://www.huaweicloud.com/product/classroom.html
+,,,华为开源镜像站 | Mirrors,为用户提供全面、高速、可信的开源组件/OS/工具下载服务,https://www.huaweicloud.com/product/mirrors.html
+,,开发者平台,,
+,,,应用管理与运维平台 | ServiceStage,提供应用开发、构建、发布、监控及运维等一站式解决方案,https://www.huaweicloud.com/product/servicestage.html
+,,,函数工作流 | FunctionGraph,自动运行用户代码，用户无需配置或管理服务器,https://www.huaweicloud.com/product/functiongraph.html
+,,云API开发,,
+,,,API网关 | APIG,为企业开发者及合作伙伴提供的高性能、高可用、高安全的API托管服务,https://www.huaweicloud.com/product/apig.html
+,,运维,,
+,,,应用运维管理 | AOM,实时监控云上资源、网络、中间件、上云业务等全链路运维指标，通过运维知识库和AIOps引擎快速发现并诊断异常，保障业务稳定运行,https://www.huaweicloud.com/product/aom.html
+,,,应用性能管理 | APM,实时监控并管理企业应用性能和故障，提供专业的分布式应用性能分析能力，可帮助企业快速解决分布式架构下的问题定位和性能瓶颈分析难题,https://www.huaweicloud.com/product/apm.html
+,,,云性能测试服务 | CPTS,为应用接口、链路提供性能测试的云服务，支持HTTP/HTTPS/TCP/UDP/WebSocket/RTMP/HLS等协议,https://www.huaweicloud.com/product/cpts.html
+,,仓库,,
+,,,容器镜像服务 | SWR,一种支持容器镜像全生命周期管理的服务， 提供简单易用、安全可靠的镜像管理功能，帮助用户快速部署容器化服务,https://www.huaweicloud.com/product/swr.html
+安全,,,,
+,,热门产品,,
+,,,企业主机安全 | HSS,提升主机整体安全，木马病毒检测，防暴力破解、防挖矿、防勒索加密。,https://www.huaweicloud.com/product/hss.html
+,,,DDoS高防 | AAD,T级DDoS攻击实时清洗，7*24小时高防专家守护,https://www.huaweicloud.com/product/aad.html
+,,,Web应用防火墙 | WAF,防御常见Web攻击、应用层DDoS攻击、恶意爬虫等，以及HTTPS卸载,https://www.huaweicloud.com/product/waf.html
+,,,SSL证书管理 | SCM,快速实现网站HTTPS化，网站防劫持、防监听，提升SEO排名和品牌形象。,https://www.huaweicloud.com/product/scm.html
+,,,等保安全服务 | GPIS,省心、快速、优质的一站式云上等保咨询+整改辅导+测评服务,https://www.huaweicloud.com/solution/gradedprotection/
+,,网络安全,,
+,,,DDoS高防 | AAD,T级DDoS攻击实时清洗，7*24小时高防专家守护,https://bbs.huaweicloud.com/forum/forum.php?mod=attachment&aid=Mzk5ODV8ZjFhMThhNGV8MTU2NjIwNDc2MXwxNzM1OHwxNDMxOQ%3D%3D
+,,主机安全,,
+,,,主机安全 | HSS,提升主机整体安全，木马病毒检测，防暴力破解、防挖矿、防勒索加密。,https://www.huaweicloud.com/product/hss.html
+,,,容器安全 | CGS,容器镜像安全，运行时安全，逃逸检测,https://www.huaweicloud.com/product/cgs.html
+,,应用安全,,
+,,,Web应用防火墙 | WAF,防御常见Web攻击、应用层DDoS攻击、恶意爬虫等，以及HTTPS卸载,https://www.huaweicloud.com/product/waf.html
+,,,漏洞扫描服务 | VSS,漏洞、挂马、弱密码多元检测，内容合规扫描（文字），提供专业的漏洞扫描报告。,https://www.huaweicloud.com/product/vss.html
+,,数据安全,,
+,,,数据库安全 | DBSS,数据库恶意行为的高清探头，全栈守护数据库安全,https://www.huaweicloud.com/product/dbss.html
+,,,数据加密服务 | DEW,云上高性能专属加密，海量密钥全生命周期管理，密钥对管理，密钥由硬件安全模块（HSM） 保护,https://www.huaweicloud.com/product/dew.html
+,,安全管理,,
+,,,SSL证书管理 | SCM,快速实现网站HTTPS化，网站防劫持、防监听，提升SEO排名和品牌形象,https://www.huaweicloud.com/product/scm.html
+,,,等保安全服务 | GPIS,省心、快速、优质的一站式云上等保咨询+整改辅导+测评服务,https://www.huaweicloud.com/solution/gradedprotection/
+,,,安全专家服务 | SES,华为云联合第三方权威机构打造的安全风险识别，威胁处置，安全产品托管和代维等系列“专家式”服务,https://www.huaweicloud.com/product/ses.html
+,,,态势感知 | SA,实时发现，分析，处置安全威胁的安全管理中心,https://www.huaweicloud.com/product/ssa.html
+,,,云堡垒机 | CBH,支持主机管理、权限控制、运维审计，满足安全合规，支持Chrome等主流浏览器远程运维,https://www.huaweicloud.com/product/cbh.html
+企业应用,帮助企业实现信息连接和实时决策，让企业沟通协作零距离,,,
+,,云通信,,
+,,,语音通话 | VoiceCall,以云服务的方式提供语音通信能力，支持语音回呼、语音验证码、语音通知,https://www.huaweicloud.com/product/voice.html
+,,,消息&短信 | MSGSMS,华为云携手全球多家优质运营商和渠道，为企业用户提供的通信服务,https://www.huaweicloud.com/product/msgsms.html
+,,,隐私保护通话 | PrivateNumber,在不增加SIM卡的情况下，为用户增加隐私号码,https://www.huaweicloud.com/product/privatenumber.html
+,,,实时音视频 | HRTC,面向互联网的实时音视频通信云服务,https://www.huaweicloud.com/product/hrtc.html
+,,企业网络,,
+,,,云管理网络 | CMN,从规划、部署、运维到优化的全生命周期云管理服务,https://www.huaweicloud.com/product/cmn.html
+,,,SD-WAN云服务 | SDWAN,为企业提供分支与分支、分支与数据中心、分支与云之间的随需广域互联,https://www.huaweicloud.com/product/sdwan.html
+,,,企业网关服务 | EGS,为企业网关提供创建、删除和管理的服务,https://www.huaweicloud.com/product/egs.html
+,,,企业网关连接服务 | EGCS,为用户提供基于企业网关的专用网络的服务,https://www.huaweicloud.com/product/egcs.html
+,,,黑名单服务 | BS,根据报文的源IP地址进行过滤的一种方式,https://www.huaweicloud.com/product/bs.html
+,,,白名单服务 | WS,在防火墙上加入白名单的主机不会再被加入动态和静态黑名单,https://www.huaweicloud.com/product/ws.html
+,,,网站过滤服务 | UFS,对用户访问的统一资源定位符URL进行控制,https://www.huaweicloud.com/product/ufs.html
+,,,视频加速服务 | VGVAS,为企业网络应用提供加速能力的服务,https://www.huaweicloud.com/product/vgvas.html
+,,,传输加速服务 | TAS,为企业网络应用提供加速能力的服务,https://www.huaweicloud.com/product/tas.html
+,,应用与数据集成,,
+,,,应用与数据集成平台 | ROMA,帮助企业快速、简单的打通并管理Legacy系统与CloudNative应用,https://www.huaweicloud.com/product/roma.html
+,,,API网关 | APIG,为企业开发者及合作伙伴提供的高性能、高可用、高安全的API托管服务,https://www.huaweicloud.com/product/apig.html
+,,,分布式消息服务 | Kafka,高吞吐、高可用的消息中间件服务,https://www.huaweicloud.com/product/dmskafka.html
+,,区块链,,
+,,,区块链服务 | BCS,提供面向企业及开发者的高性能、高可用、高安全的区块链技术平台，可以帮助企业和开发人员在云上快速、低成本的创建、部署和管理区块链应用,https://www.huaweicloud.com/product/bcs.html
+,,应用平台,,
+,,,应用管理与运维平台 | ServiceStage,面向企业的云原生应用管理服务，提供应用开发、构建、发布、监控及运维等一站式解决方案,https://www.huaweicloud.com/product/servicestage.html
+,,专属云,,
+,,,资源专属服务 | DeC,华为云专属云解决方案资源专属服务是面向企业、政府、金融等客户，提供专属的计算、存储资源池及配套的云服务解决方案,https://www.huaweicloud.com/product/dedicated_resource/
+,,,全栈专属服务 | HCSO,华为云全栈专属服务为金融、政府和大企业客户提供计算、存储、网络和云服务管控平台完全物理隔离的专属云服务,https://www.huaweicloud.com/product/dedicated_full-stack.html
+,,企业协同,,
+,,,华为云WeLink,更懂企业的智能工作平台,https://www.huaweicloud.com/product/welink.html
+,,,华为会议 | HUAWEI Meeting,华为会议，沟通协作零距离,https://www.huaweicloud.com/product/meeting.html
+IoT物联网,联万物、+智能、为行业，打造极致体验的全栈全场景物联网云服务，聚合产业生态，使能客户商业成功,,,
+,,物联网平台,,
+,,,设备接入,海量设备与云端双向通信连接、设备数据采集/转发、远程控制,https://www.huaweicloud.com/product/iothub.html
+,,,设备管理,对智能设备进行可视化管理，并提供强大的面向行业应用开放能力,https://www.huaweicloud.com/product/iot.html
+,,,设备发放,轻松管理跨多区域海量设备的发放，单点发放管理、设备全球上线,https://www.huaweicloud.com/product/iotps.html
+,,,物联网应用构建器,无码化的应用开发，帮助企业便捷快速构建应用,https://www.huaweicloud.com/product/oceanbooster.html
+,,,全球SIM联接,提供无线蜂窝物联网定向流量和eSIM/vSIM智能选网，实现一站式流量管理,https://www.huaweicloud.com/product/globalsimlink.html
+,,,物联网数据分析,为物联网数据开发者提供一站式服务，快速实现物联网数据价值变现,https://www.huaweicloud.com/product/iotanalytics-platform.html
+,,,车路协同服务,车路协同服务实现人、车、路、网之间的数字化信息交互，助力自动驾驶规模化商用,https://www.huaweicloud.com/product/v2x.html
+,,行业平台,,
+,,,车联网平台,使能车企数字化转型，助力智慧交通产业升级,https://www.huaweicloud.com/product/iov.html
+,,,园区物联网平台服务,一站式提供园区设备边缘接入、统一管理和数据汇聚能力，使能园区智慧应用,https://www.huaweicloud.com/product/ocsmartcampus.html
+,,物联网边缘,,
+,,,IoT边缘,将IoT云平台能力延伸至边缘，为物联网设备提供就近接入、实时本地闭环和智能计算服务,https://www.huaweicloud.com/product/iotedge.html
+,,设备服务,,
+,,,轻量级操作系统 | LiteOS,Huawei LiteOS，驱动万物感知、互联、智能,https://www.huaweicloud.com/product/liteos.html
