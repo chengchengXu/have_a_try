@@ -1,0 +1,36 @@
+traderBuy
+Handle,double 值,"账户标识"
+Market,char 数组,"市场类型"
+Code,char 数组,"品种代码, 如 'IF0000'"
+Contracts,double 值,"下单数量"
+Price,double 值,"下单价格; 市价单用 0"
+PriceType,char 数组,"下单价格类型"
+OrderTag,char 数组,"订单标记"
+
+traderRunRealTradeV2
+StrategyName,char 数组,"策略名称"
+TradeFun,function_handle 型,"策略函数, 格式: @函数名称"
+varFunParameter,cell 数组,"策略函数中用到的参数"
+AccountList,cell 数组,"账户名称"
+TargetList,struct 数组,"策略标的列表"
+KFrequency,char 数组,"策略刷新频率类型"
+KFreNum,double 型,"刷新频率数值"
+BeginDate,double 型,"策略开始的日期, 如 20140608"
+FQ,char 数组,"复权类型"
+AlgoTradeFun,function_handle 型,"算法交易函数, 格式: @算法交易函数"
+varAlgoFunParameter,cell 数组,"算法交易函数中用到的参数"
+
+traderRunReplayV2
+StrategyName,char 数组,"策略名称"
+TradeFun,function_handle 型,"策略函数, 格式: @函数名称"
+varFunParameter,cell 数组,"策略函数中用到的参数, 如 {'参数一', '参数二', '参数三'}"
+AccountList,cell 数组,"账户名称"
+TargetList,struct 数组,"策略标的列表"
+KFrequency,char 数组,"策略刷新频率类型"
+KFreNum,double 型,"刷新频率数值"
+BeginDate,double 型,"策略开始的日期, 如 20140608"
+RepalyDate,double 型,"策略回放的日期, 如 20140610, 要求 BeginDate <= RepalyDate"
+FQ,char 数组,"复权类型"
+AlgoTradeFun,function_handle 型,"算法交易函数, 格式: @算法交易函数"
+varAlgoFunParameter,cell 数组,"算法交易函数中用到的参数"
+
