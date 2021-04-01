@@ -1,0 +1,5 @@
+[UNITLIMIT]
+@BEGIN
+	@FUNCDESC={UNITLIMIT,取交易合约的限制拥有持仓数}
+	@PARAMDESC={}
+@END
