@@ -4,6 +4,8 @@
 import sys
 import re
 
+from cyberbrain import trace
+
 
 def NorStr2CSVStr(item=''):
     result = re.search(r',', item)
@@ -40,16 +42,17 @@ def handle_line(line):
 def handle_file(file='t.txt'):
     try:
         f_temp = open(file + ".temp", "r")
-        f_csv = open(file + ".csv", "w")
+        f_csv = open(file + ".csv", "w+")
         for line in f_temp.readlines():
             line = handle_line(line)
             if (line != ''):
                 f_csv.write(line + '\n')
                 f_csv.flush()
-    except Exception(e):
+    except Exception as e:
         print(str(e))
 
 
+@trace
 def main():
     handle_file('FmlKeyWord.txt')
 
